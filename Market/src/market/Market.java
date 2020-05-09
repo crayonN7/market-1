@@ -27,7 +27,7 @@ public class Market {
 
         System.out.println("entre your address : ");
         user.address = scanner.next(); 
-        
+        System.out.println("-------------------------");
         
     }
     
