@@ -6,6 +6,10 @@ import java.util.Scanner;
 public class Market {
  
     public static void main(String[] args) {
+        /*
+        this is my programe with ahmed fouad
+        pour apprendre Java
+        */
         System.out.println("Welcom to my market ");
         Scanner scanner = new Scanner(System.in);
         User user = new User();
